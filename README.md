@@ -40,11 +40,7 @@ python project.py
 ```
 project.py                 Código del programa
 README.md                  Este archivo
-docs/diagramas/            Diagramas en formato draw.io y JPG
-  casos_de_uso
-  arquitectura
-  diagrama_flujo_general
-  diagrama_flujo_registrar
+
 ```
 
 ## Contenidos de la asignatura aplicados
@@ -58,6 +54,15 @@ docs/diagramas/            Diagramas en formato draw.io y JPG
 | 3 | Bucles | `for` para recorrer notas y estudiantes |
 | 4 | Tuplas, listas y diccionarios | Tupla `EVALUACIONES`, lista `estudiantes`, un diccionario por estudiante |
 | 4 | Funciones y parámetros | Todo el programa está organizado en funciones |
+
+## Desarrollo de logica
+<img width="1360" height="980" alt="arquitectura" src="https://github.com/user-attachments/assets/4edb140b-10d3-442b-bfd0-c9cd40e71415" />
+<img width="1360" height="1040" alt="casos_de_uso" src="https://github.com/user-attachments/assets/80d5f869-9182-445b-8ad4-1d04bf6d1d2e" />
+<img width="1560" height="1600" alt="diagrama_flujo_general" src="https://github.com/user-attachments/assets/e2962e56-74ff-4489-808a-d2b3da8e9760" />
+<img width="1540" height="1840" alt="diagrama_flujo_registrar" src="https://github.com/user-attachments/assets/7b4222de-1ad1-4ad2-a054-e1e1fe89bd79" />
+
+
+
 
 ## Desarrollo por etapas
 
